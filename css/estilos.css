@@ -1,0 +1,39 @@
+body{
+    margin: 50px;
+    background-color: rgb(224, 224, 224);
+}
+
+.sep{
+    margin: 10px;
+}
+
+.cajachica{
+    width: 400px;
+}
+
+.cajagrande{
+    height: 500px;
+    width: 700px;
+}
+.img{
+    width: 680px;
+    float: right;
+}
+.a-read{
+    text-decoration: none;
+    color: #000;
+    font-weight: bold
+}
+
+.rigth{
+    float: right;
+    text-align: right;
+}
+
+.sep-info{
+    margin-bottom: 5px;
+}
+
+.letra14{
+    font-size: 14px;
+}
